@@ -1,4 +1,4 @@
-<bpmn2:definitions xmlns:bpmn2="http://www.omg.org/spec/BPMN/20100524/MODEL" xmlns:bpmndi="http://www.omg.org/spec/BPMN/20100524/DI" xmlns:bpsim="http://www.bpsim.org/schemas/1.0" xmlns:drools="http://www.jboss.org/drools" id="_TA0KQFq5EDmU1ZaiWJdGVg" exporter="jBPM Process Modeler" exporterVersion="2.0" targetNamespace="http://www.omg.org/bpmn20">
+<bpmn2:definitions xmlns:bpmn2="http://www.omg.org/spec/BPMN/20100524/MODEL" xmlns:bpmndi="http://www.omg.org/spec/BPMN/20100524/DI" xmlns:bpsim="http://www.bpsim.org/schemas/1.0" xmlns:drools="http://www.jboss.org/drools" id="_Xw-qYGeuEDmGzoHJP1L32w" exporter="jBPM Process Modeler" exporterVersion="2.0" targetNamespace="http://www.omg.org/bpmn20">
   <bpmn2:process id="new-file" drools:packageName="com.example" drools:version="1.0" drools:adHoc="false" name="new-file" isExecutable="true" processType="Public"/>
   <bpmndi:BPMNDiagram>
     <bpmndi:BPMNPlane bpmnElement="new-file"/>
@@ -11,7 +11,7 @@
         </bpsim:Scenario>
       </bpsim:BPSimData>
     </bpmn2:extensionElements>
-    <bpmn2:source>_TA0KQFq5EDmU1ZaiWJdGVg</bpmn2:source>
-    <bpmn2:target>_TA0KQFq5EDmU1ZaiWJdGVg</bpmn2:target>
+    <bpmn2:source>_Xw-qYGeuEDmGzoHJP1L32w</bpmn2:source>
+    <bpmn2:target>_Xw-qYGeuEDmGzoHJP1L32w</bpmn2:target>
   </bpmn2:relationship>
 </bpmn2:definitions>
